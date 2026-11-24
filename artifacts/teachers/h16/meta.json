@@ -1,0 +1,24 @@
+{
+  "arch": "h16",
+  "sizes": [
+    12,
+    16,
+    11
+  ],
+  "n_params": 395,
+  "student_sizes": [
+    12,
+    8,
+    11
+  ],
+  "train_accuracy": 1.0,
+  "test_accuracy": 0.9343434343434344,
+  "sig_figs": 3,
+  "rounding_check": {
+    "train_changed": 0,
+    "val_changed": 0,
+    "test_changed": 0,
+    "ood_changed": 4
+  },
+  "student_n_params": 203
+}

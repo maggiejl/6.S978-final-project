@@ -1,0 +1,24 @@
+{
+  "arch": "h64",
+  "sizes": [
+    12,
+    64,
+    11
+  ],
+  "n_params": 1547,
+  "student_sizes": [
+    12,
+    32,
+    11
+  ],
+  "train_accuracy": 1.0,
+  "test_accuracy": 0.9292929292929293,
+  "sig_figs": 3,
+  "rounding_check": {
+    "train_changed": 0,
+    "val_changed": 0,
+    "test_changed": 0,
+    "ood_changed": 0
+  },
+  "student_n_params": 779
+}
